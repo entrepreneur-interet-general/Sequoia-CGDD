@@ -27,11 +27,11 @@ ________________
 
 Pour en découvrir plus quant à ma mission au sein du CGDD, je vous propose de parcourir les différentes étapes de la méthodologie UX qui ont été appliquées au projet durant ces 12 derniers mois. Pour chacune d'entre elle, une courte introduction vous permettra de découvrir leur contexte d’application ainsi que quelques uns des documents de méthodologie et/ou de formalisation des résultats.
 
-* [**CADRAGE**](https://github.com/mariermn/Sequoia---CGDD/blob/master/Cadrage/Cadrage.md)
-* [**EXPLORATION**](https://github.com/mariermn/Sequoia---CGDD/tree/master/Exploration/Exploration.md)
-* [**IDÉATION**](https://github.com/mariermn/Sequoia---CGDD/tree/master/Ideation/Ideation.md)
-* [**CONCEPTION**](https://github.com/mariermn/Sequoia---CGDD/tree/master/Conception/Conception.md)
-* [**TEST**](https://github.com/mariermn/Sequoia---CGDD/tree/master/Test/Test.md)
+* [**CADRAGE**](https://github.com/entrepreneur-interet-general/Sequoia-CGDD/blob/master/Cadrage/Cadrage.md)
+* [**EXPLORATION**](https://github.com/entrepreneur-interet-general/Sequoia-CGDD/blob/master/Exploration/Exploration.md)
+* [**IDÉATION**](https://github.com/entrepreneur-interet-general/Sequoia-CGDD/blob/master/Ideation/Ideation.md)
+* [**CONCEPTION**](https://github.com/entrepreneur-interet-general/Sequoia-CGDD/blob/master/Conception/Conception.md)
+* [**TEST**](https://github.com/entrepreneur-interet-general/Sequoia-CGDD/blob/master/Test/Test.md)
 
 > 📌 *NB / Certains documents ne peuvent être partagés :*
 > * *Documents de pilotage projet contenant des informations confidentielles (CGDD et prestataire)*
