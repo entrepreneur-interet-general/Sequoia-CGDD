@@ -24,7 +24,7 @@ Au début de mon défi je pensais que la réalisation des wireframes et maquette
 
 Dans le cadre de cette phase de conception et pour aider les équipes dans la réalisation des tâches, j'ai réalisé un certain nombre de supports de méthodologie et documents de suivi de projet (dont des tableaux de versioning, userflow, arborescences etc.).
 
-*NB/ La crise sanitaire du Covid a eu un impact sur le planning du projet mais également notre façon de travailler. Le management du projet et instances de travail collaboratif se firent à distance. Les outils ont du être repensés et adaptés aux usages et compétences de chacun.*
+> *NB/ La crise sanitaire du Covid a eu un impact sur le planning du projet mais également notre façon de travailler. Le management du projet et instances de travail collaboratif se firent à distance. Les outils ont du être repensés et adaptés aux usages et compétences de chacun.*
 
 ________________
 
