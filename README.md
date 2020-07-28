@@ -53,4 +53,4 @@ Un grand merci à ma promotion des Designers d'Intérêt Général et EIG-Links 
 
 Je tiens à remercier particulièrement les agents du CGDD pour leur accueil chaleureux et bienveillant avec une attention toute particulière à l'équipe projet Ombel avec qui j'ai eu l'opportunité de collaborer étroitement pendant ces quelques mois. J'ai rencontré des personnes exceptionnelles, au savoir immense et au grand coeur qui ont su se montrer curieuses, compréhensives et si attentionnées à mon égard. Et pour tout cela, un grand merci !
 
-Enfin, un dernier mot à mon mentor, Olivier Garry, pour son soutien, sa bonne humeur sans faille et sa grande qualité de « poil à gratter » sans quoi beaucoup de choses n’auraient pas été possibles ! 
+Enfin, un dernier mot à mon mentor, Olivier Garry, pour son soutien, sa bonne humeur sans faille et sa grande qualité de « poil à gratter » sans quoi beaucoup de choses n’auraient pas été possibles 😽 ! 
