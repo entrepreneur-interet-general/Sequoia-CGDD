@@ -11,7 +11,7 @@ Ainsi, en collaboration avec Cocedal, nous avons construit une étude quantitati
 Suite à la réalisation de l'étude quantitative, j'ai réalisé une série d'entretiens téléphoniques avec certains des usagers provenant de l'access panel.
 **Une trentaine d'utilisateurs aux profils variés** (bureaux d’étude, enseignants, associations, citoyens etc.) ont été interviewés afin de **dégager des attentes plus précises et comprendre leur parcours usager quant à la consultation et utilisation d'informations liées à l'environnement et au développement durable.**
 
-Durant ces entretiens semi-directifs d'une heure environ, les questions étaient principalement orientées autour de leur besoin, qu'il soit personnel ou professionnel, pour ce type d'informations, leurs cources, habitudes et attentes spécifiques etc.
+Durant ces entretiens semi-directifs d'une heure environ, les questions étaient principalement orientées autour de leur besoin, qu'il soit personnel ou professionnel, pour ce type d'informations, leurs habitudes et attentes spécifiques etc.
 
 ________________
 
