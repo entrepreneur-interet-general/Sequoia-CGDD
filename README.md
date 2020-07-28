@@ -36,7 +36,7 @@ Pour en découvrir plus quant à ma mission au sein du CGDD, je vous propose de 
 > 📌 *NB / Certains documents ne peuvent être partagés :*
 > * *Documents de pilotage projet contenant des informations confidentielles (CGDD et prestataire)*
 > * *Documents réalisés en collaboration avec les prestataires (Cocedal et Ecedi)*
-> * *Documents projets contenant des informations confidentielles (dont documents contenant des informations concernant les versions ultérieures du site)*
+> * *Documents projet contenant des informations confidentielles (dont documents contenant des informations concernant les versions ultérieures du site)*
 > * *Supports de formation et projets annexes au défi Sequoia*
 
 
@@ -48,6 +48,8 @@ ________________
 #### ♥️ REMERCIEMENTS
 
 Je ressors grandie de ces 12 mois de mission au sein du CGDD. En effet, cette année fut pour moi un temps de remise en question dont j'avais besoin pour faire évoluer ma pratique et m'épanouir pleinement.
+
+Un grand merci à ma promotion des Designers d'Intérêt Général et EIG-Links pour ces moments de partage (intellectuels et gastronomiques 🍩) toujours si enrichissants. Une pensée toute particulière pour Charlotte Marmet du projet Sequoia IGN, qui fut pour moi une des plus belles rencontres de cette années.
 
 Je tiens à remercier particulièrement les agents du CGDD pour leur accueil chaleureux et bienveillant avec une attention toute particulière à l'équipe projet Ombel avec qui j'ai eu l'opportunité de collaborer étroitement pendant ces quelques mois. J'ai rencontré des personnes exceptionnelles, au savoir immense et au grand coeur qui ont su se montrer curieuses, compréhensives et si attentionnées à mon égard. Et pour tout cela, un grand merci !
 
