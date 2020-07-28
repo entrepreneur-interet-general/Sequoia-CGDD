@@ -26,7 +26,9 @@ ________________
 
 
 #### RECHERCHE DE L'EXISTANT
-En parallèle j'ai procédé à une étude concurrentielle et audit de plusieurs sites du Ministère, de la sphère gouvernementale française et internationale ainsi que de sites de contenus.
+En parallèle j'ai procédé à une étude concurrentielle et audit de plusieurs sites du Ministère, de la sphère gouvernementale française et internationale ainsi que de sites de contenus. 
+
+> *NB / C'était sans compter un bug de mon logiciel qui m'a fait perdre la quasi totalité de l'audit... 💆*
 
 ________________
 
