@@ -16,6 +16,8 @@ De plus, durant toute la phase de conception graphique et ergonomique des pages 
 
 * **Communication** : Un plan de communication a du être établi en prévision de la sortie du MVP avec notamment la réalisation d'une vidéo de présentation du concept et contenu du site Ombel (DICOM).
 
+________________
+
 
 #### PILOTAGE PROJET
 Au début de mon défi je pensais que la réalisation des wireframes et maquettes du futur site m'incomberait directement. Or, la configuration de l'équipe CGDD/Ecedi telle qu'elle avait été pensée avant mon arrivée me fit occuper un **rôle de coordination des équipes CGDD/Ecedi**. Il s'agissait pour moi de faire le lien entre les différents chantiers, entre les interlocuteurs du CGDD et ceux du prestataire notamment en ce qui concerne la réalisation des écrans et de la direction artistique.
@@ -24,17 +26,26 @@ Dans le cadre de cette phase de conception et pour aider les équipes dans la r�
 
 *NB/ La crise sanitaire du Covid a eu un impact sur le planning du projet mais également notre façon de travailler. Le management du projet et instances de travail collaboratif se firent à distance. Les outils ont du être repensés et adaptés aux usages et compétences de chacun.*
 
+________________
 
 
 #### 📓 DOCUMENTS 
-* [Présentation Ombel]
+* [Présentation Ombel](https://github.com/entrepreneur-interet-general/Sequoia-CGDD/blob/master/Conception/ombel_presentation.pdf)
 * Site en ligne Ombel (en cours)
 * Charte Design (en cours)
-* [Recherches graphiques]
-* [Wireframes]
-* [Maquettes]
-* [Userflow] 
-* [Versioning (MVP)]
-* [Thèmes et sous-thèmes]
-* [Tutoriel structuration contenu]
+* [Recherches graphiques](https://github.com/entrepreneur-interet-general/Sequoia-CGDD/blob/master/Conception/extrait_recherches_graphiques.pdf)
+* [Wireframes](https://github.com/entrepreneur-interet-general/Sequoia-CGDD/blob/master/Conception/extrait_wireframes.pdf)
+* [Maquettes](https://github.com/entrepreneur-interet-general/Sequoia-CGDD/blob/master/Conception/extrait_maquettes.pdf)
+* [Userflow](https://github.com/entrepreneur-interet-general/Sequoia-CGDD/blob/master/Conception/ombel_userflow_v2.pdf)
+* [Versioning (MVP)](https://github.com/entrepreneur-interet-general/Sequoia-CGDD/blob/master/Conception/versioning_mvp.pdf)
+* [Thèmes et sous-thèmes](https://github.com/entrepreneur-interet-general/Sequoia-CGDD/blob/master/Conception/ombel_th%C3%A8mes_v8.pdf)
+* [Tutoriel structuration contenu](https://github.com/entrepreneur-interet-general/Sequoia-CGDD/blob/master/Conception/ombel_tutoriel_contenu.pdf)
 
+________________
+
+
+#### 📎 POUR EN SAVOIR PLUS... 
+* [**CADRAGE**](https://github.com/entrepreneur-interet-general/Sequoia-CGDD/blob/master/Cadrage/Cadrage.md)
+* [**EXPLORATION**](https://github.com/entrepreneur-interet-general/Sequoia-CGDD/blob/master/Exploration/Exploration.md)
+* [**IDÉATION**](https://github.com/entrepreneur-interet-general/Sequoia-CGDD/blob/master/Ideation/Ideation.md)
+* [**TEST**](https://github.com/entrepreneur-interet-general/Sequoia-CGDD/blob/master/Test/Test.md)
