@@ -8,7 +8,7 @@ La phase de conception fut réalisée en collaboration étroite avec le prestata
 
 * **Contenu** : Ce chantier fut le plus important puisqu'il consista à récupérer les contenus de sites du MTES pour les faire retravailler par les services rédacreurs du CGDD en vue de l'ouverture du site (MVP). Pour faciliter la relecture de ces derniers et leur structuration, des outils et workflows ont du être mis en place - notamment dans un contexte de crise sanitaire.
 
-* **Design** : Collaboration étroite entre les équipes de conception d'Ecedi et moi pour la réalisation des wireframes et de la direction artistique du site en adéquation avec les besoins usagers et les attentes de l'équipe éditoriale ainsi que des décisionnaires du CGDD.
+* **Design** : Collaboration étroite entre les équipes de conception d'Ecedi et moi pour la réalisation des wireframes et de la direction artistique du site en adéquation avec les besoins usagers et les attentes de l'équipe éditoriale ainsi que des décisionnaires du CGDD. 
 
 De plus, durant toute la phase de conception graphique et ergonomique des pages du site, nous avons pu échanger avec les équipes du SIG en charge du Design System de l'Etat en tant qu'**alphatesteurs**.
 
@@ -20,7 +20,7 @@ ________________
 
 
 #### PILOTAGE PROJET
-Au début de mon défi je pensais que la réalisation des wireframes et maquettes du futur site m'incomberait directement. Or, la configuration de l'équipe CGDD/Ecedi telle qu'elle avait été pensée avant mon arrivée me fit occuper un **rôle de coordination des équipes CGDD/Ecedi**. Il s'agissait pour moi de faire le lien entre les différents chantiers, entre les interlocuteurs du CGDD et ceux du prestataire notamment en ce qui concerne la réalisation des écrans et de la direction artistique.
+Au début de mon défi je pensais que la réalisation des wireframes et maquettes du futur site m'incomberait directement. Or, la configuration de l'équipe CGDD/Ecedi telle qu'elle avait été pensée avant mon arrivée me fit également occuper un **rôle de coordination des équipes CGDD/Ecedi**. Il s'agissait pour moi d'une part de faire le lien entre les différents chantiers, entre les interlocuteurs du CGDD et ceux du prestataire notamment en ce qui concerne la réalisation des écrans et de la direction artistique - et de l'autre co-créer et maquetter les écrans avec l'équipe de conception d'Ecedi.
 
 Dans le cadre de cette phase de conception et pour aider les équipes dans la réalisation des tâches, j'ai réalisé un certain nombre de supports de méthodologie et documents de suivi de projet (dont des tableaux de versioning, userflow, arborescences etc.).
 
