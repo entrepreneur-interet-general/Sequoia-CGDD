@@ -4,15 +4,21 @@
 #### ATELIERS DE RÉCOLTE DES BESOINS
 À la rentrée de Janvier deux ateliers furent organisés dans le but d'**échanger avec les participants quant aux éléments de synthèse de la recherche utilisateur et récolter de nouveaux besoins.** Ces ateliers permirent de tester des hypothèses et de faire le lien avec les ateliers de co-conception qui suivirent.
 
+________________
+
 
 #### ATELIERS DE CO-CONCPETION
 La phase d'idéation débuta avec une série d'ateliers usagers qui furent toutefois perturbés par les grèves. Ces ateliers eurent pour objectif de regrouper des usagers aux profils variés et de les faire échanger quant à la concrétisation de leurs besoins en interface. Ces échanges furent très riches et nous permirent d'**aboutir à des grands principes d'ergonomie et d'architecture de l'information qui puissent convenir à la fois à une cible experte comme au grand public.**
 
 J'ai eu la chance de réaliser ces ateliers à l'Espace 34, lieu d'intelligence collective, spatieux et équipé - partagé avec les équipes de la Farbique à Projets du Secrétarait Général.
 
+________________
+
 
 #### SYNTHÈSE
 Suite à ces ateliers, j'ai synthétisé la donnée récoltée en plusieurs livrables dont des **personae (une dizaine du fait de la pluralité d'usagers visés - dont 4 principaux), 3 parcours majeurs : Découverte, Expertise et Pédagogie ainsi qu'une offre de service détaillée sous la forme d'un mapping exhaustif reprenant les besoins et attentes usagers** dégagés lors de la recherche usager et des ateliers.
+
+________________
 
 
 #### DESIGN SPRINT
@@ -25,17 +31,27 @@ Lors de ce Design Sprint de 3 jours, nous fimes connaissance avec l'équipe du p
 
 À la fin de ce Design Sprint, les grands principes du site étaient établis et la phase de conception pouvait alors démarrer.
 
+________________
 
 
 #### 📓 DOCUMENTS 
-* [Restitution atelier de co-conception]
-* [Restitution atelier de récolte des besoins]
-* [Déroulé du Design Sprint]
-* [Photos du Design Sprint]
-* [Parcours Pédagogie]
-* [Parcours Découverte]
-* [Parcours Expertise]
-* [Personae]
-* [Offre de service]
-* [Arborescence site]
-* [Réflexion marque]
+* [Restitution atelier de co-conception](https://github.com/entrepreneur-interet-general/Sequoia-CGDD/blob/master/Ideation/atelier_co-conception.pdf)
+* [Restitution atelier de récolte des besoins](https://github.com/entrepreneur-interet-general/Sequoia-CGDD/blob/master/Ideation/atelier_recolte_besoins.pdf)
+* [Déroulé du Design Sprint](https://github.com/entrepreneur-interet-general/Sequoia-CGDD/blob/master/Ideation/design_sprint.pdf)
+* [Photos du Design Sprint](https://github.com/entrepreneur-interet-general/Sequoia-CGDD/tree/master/Ideation/photos_design_sprint)
+* [Parcours Pédagogie](https://github.com/entrepreneur-interet-general/Sequoia-CGDD/blob/master/Ideation/parcours_education.jpg)
+* [Parcours Découverte](https://github.com/entrepreneur-interet-general/Sequoia-CGDD/blob/master/Ideation/parcours_decouverte.jpg)
+* [Parcours Expertise](https://github.com/entrepreneur-interet-general/Sequoia-CGDD/blob/master/Ideation/parcours_expertise.jpg)
+* [Personae](https://github.com/entrepreneur-interet-general/Sequoia-CGDD/blob/master/Ideation/personae_v2.pdf)
+* [Offre de service](https://github.com/entrepreneur-interet-general/Sequoia-CGDD/blob/master/Ideation/mapping_besoins.pdf)
+* [Arborescence site](https://github.com/entrepreneur-interet-general/Sequoia-CGDD/blob/master/Ideation/arborescence_v1.jpg)
+* [Réflexion marque](https://github.com/entrepreneur-interet-general/Sequoia-CGDD/blob/master/Ideation/reflexion_marque.pdf)
+
+________________
+
+
+#### 📎 POUR EN SAVOIR PLUS... 
+* [**CADRAGE**](https://github.com/entrepreneur-interet-general/Sequoia-CGDD/blob/master/Cadrage/Cadrage.md)
+* [**EXPLORATION**](https://github.com/entrepreneur-interet-general/Sequoia-CGDD/blob/master/Exploration/Exploration.md)
+* [**CONCEPTION**](https://github.com/entrepreneur-interet-general/Sequoia-CGDD/blob/master/Conception/Conception.md)
+* [**TEST**](https://github.com/entrepreneur-interet-general/Sequoia-CGDD/blob/master/Test/Test.md)

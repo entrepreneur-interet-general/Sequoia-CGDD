@@ -12,7 +12,7 @@ ________________
 
 
 #### DÉCOUVERTE
-Lors de arrivée au CGDD ma première mission fut de **découvrir l’écosystème dans lequel je m’apprêtais à évoluer ainsi celui du projet SIED** - son contexte, la problématique, les parties prenantes etc. Après lecture et synthèse des documents du projet produits jusqu’à lors, je décidais d’organiser des rencontres avec les parties prenantes et de créer, en accord avec mon mentor, un planning de la méthodologie UX que je souhaitais mettre en place dans le cadre de mon défi. 
+Lors de arrivée au CGDD ma première mission fut de **découvrir l’écosystème dans lequel je m’apprêtais à évoluer ainsi que celui du projet SIED** - son contexte, la problématique, les parties prenantes etc. Après lecture et synthèse des documents du projet produits jusqu’à lors, je décidais d’organiser des rencontres avec les parties prenantes et de créer, en accord avec mon mentor, un planning de la méthodologie UX que je souhaitais mettre en place dans le cadre de mon défi. 
 
 ________________
 
