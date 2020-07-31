@@ -32,7 +32,7 @@ ________________
 #### 📓 DOCUMENTS 
 * [Présentation Ombel](https://github.com/entrepreneur-interet-general/Sequoia-CGDD/blob/master/Conception/ombel_presentation.pdf)
 * Site en ligne Ombel (en cours)
-* Charte Design (en cours)
+* [Charte Design](https://github.com/entrepreneur-interet-general/Sequoia-CGDD/blob/master/Conception/Ombel_charte_design.pdf)
 * [Recherches graphiques](https://github.com/entrepreneur-interet-general/Sequoia-CGDD/blob/master/Conception/extrait_recherches_graphiques.pdf)
 * [Wireframes](https://github.com/entrepreneur-interet-general/Sequoia-CGDD/blob/master/Conception/extrait_wireframes.pdf)
 * [Maquettes](https://github.com/entrepreneur-interet-general/Sequoia-CGDD/blob/master/Conception/extrait_maquettes.pdf)
